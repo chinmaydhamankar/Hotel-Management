@@ -1,0 +1,61 @@
+body {
+  padding: 50px !important;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif !important;
+}
+
+a {
+  color: #00B7FF !important;
+}
+
+.fullWidth {
+  width: 100% !important;
+}
+
+body {
+    background: cornsilk !important;
+}
+
+h1 {
+    color: maroon !important;
+    font-family: fantasy !important;
+}
+
+h3 {
+    color: darkred !important;
+    font-family: fantasy !important;
+    font-weight: bold !important;
+    margin-bottom: 0 !important;
+}
+
+p {
+    font-family: fantasy !important;
+    color: peru !important;
+    margin-bottom: 0 !important;
+    width: 70%;
+    text-align: justify;
+}
+
+.cart-span,input {
+    float: right;
+    color: darkgrey;
+    font-size: small;
+}
+
+input {
+    width: 5%;
+}
+
+button {
+    text-align: center;
+    align-self: center;
+}
+
+.billBox {
+    border-left: saddlebrown;
+    border-style: solid;
+    border-width: thin;
+}
+
+.bill-lastRow {
+    margin-bottom: 25px;
+}
